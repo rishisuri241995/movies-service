@@ -1,0 +1,10 @@
+com\mycompany\assignment1_moviesoapservice\JAXRSConfiguration.class
+com\mycompany\controller\exceptions\NonexistentEntityException.class
+com\mycompany\models\AssignmentMovie_.class
+com\mycompany\handlers\MovieHandler.class
+com\mycompany\services\Assignment1_MovieService.class
+com\mycompany\assignment1_moviesoapservice\resources\JavaEE8Resource.class
+com\mycompany\models\AssignmentMovie.class
+com\mycompany\controller\exceptions\IllegalOrphanException.class
+com\mycompany\controller\AssignmentMovieJpaController.class
+com\mycompany\controller\exceptions\PreexistingEntityException.class
